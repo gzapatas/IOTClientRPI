@@ -1,0 +1,6 @@
+{
+   "Name": "Raspberry1",
+   "Mac": "00:11:22:33:44:55:3B",
+   "URL": "http://127.0.0.1:5100",
+   "Insecure" : false
+}
